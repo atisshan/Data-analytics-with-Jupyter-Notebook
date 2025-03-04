@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore dataset files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.db
